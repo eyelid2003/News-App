@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 310,
+    "articles": [
+    {
+    "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "Beeper Mini exits the Play Store thanks to the iMessage chaos",
+            "description": "You can still sideload it if you really miss it, but maybe this is a good time to explore the rest of Beeper Cloud's features?",
+            "url": "https://www.androidcentral.com/apps-software/beeper-mini-removed-from-the-play-store",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6q9L2bnAY9rBtPXfQnoWxn-1200-80.jpg",
+            "publishedAt": "2024-01-13T04:52:55Z",
+            "content": "<ul><li>Beeper is shifting its focus towards its long-term goal of creating the best chat app, marking a transition by removing Beeper Mini from the Google Play Store.</li><li>Meanwhile, iMessage is … [+2542 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "bradypsnyder@gmail.com (Brady Snyder)",
+            "title": "This app turns your Wear OS watch into a mouse, and you can use it now",
+            "description": "At CES, the software developer Doublepoint showed off an app that turns your Wear OS watch into a mouse. You might be surprised to learn that it's something you can download and use right now.",
+            "url": "https://www.androidcentral.com/wearables/doublepoint-wowmouse-app-ces-2024",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/NB9rmFqHTefZhsjADG2img-1200-80.jpg",
+            "publishedAt": "2024-01-13T08:34:08Z",
+            "content": "<ul><li>Doublepoint showed off the WowMouse app at CES 2024, which turns your Wear OS smartwatch into a mouse.</li><li>Open-air gestures can be used for navigation and a light pinch is used to select… [+2564 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Android 15 Could Bring Widgets Back To the Lock Screen",
+            "description": "After removing the feature with Android 5.0 in 2015, Google appears to be bringing back lock screen widgets in the next version of Android. \"There haven't been any indications since then that Google would ever bring this feature back,\" notes Android Authority…",
+            "url": "https://mobile.slashdot.org/story/24/01/12/2259213/android-15-could-bring-widgets-back-to-the-lock-screen",
+            "urlToImage": "https://a.fsdn.com/sd/topics/android_64.png",
+            "publishedAt": "2024-01-13T00:02:00Z",
+            "content": "As for how they might do that, there seem to be two different approaches that are being developed. The first one involves the creation of a new \"communal\" space -- an area on the lock screen that mig… [+2466 chars]"
+        },
+    {
+    "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kelly Burch",
+            "title": "Meet the female force who halted a major development project to preserve her working-class neighborhood and make it a leader in clean energy",
+            "description": "Elizabeth Yeampierre has helped preserve her neighborhood in Sunset Park from investors that could have pushed out the working class locals.",
+            "url": "https://www.businessinsider.com/elizabeth-yeampierre-grid-plan-sunset-parks-future-2023-12",
+            "urlToImage": "https://i.insider.com/6580dbc250edbc52a86583f9?width=1200&format=jpeg",
+            "publishedAt": "2024-01-13T10:07:01Z",
+            "content": "Elizabeth Yeampierre is the executive director of UPROSE — a Sunset Park community organization focused on sustainability and resiliency.UPROSE\r\n<ul><li>Elizabeth Yeampierre helped prevent a real est… [+6053 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Alberto García",
+            "title": "El Corte Inglés comienza bien el año con estos descuentazos: las mejores ofertas en teléfonos, tabletas y más",
+            "description": "Sin duda alguna, las tiendas han comenzado el año apostándolo todo con las diferentes ofertas y campañas que han ido lanzando en estas dos primeras semanas de enero. Llega un nuevo fin de semana, por lo que hemos hecho un repaso a los distintos dispositivos y…",
+            "url": "https://www.xataka.com/seleccion/corte-ingles-comienza-bien-ano-estos-descuentazos-mejores-ofertas-telefonos-tabletas",
+            "urlToImage": "https://i.blogs.es/7295fe/eci-cabecera/840_560.jpeg",
+            "publishedAt": "2024-01-13T09:31:36Z",
+            "content": "Sin duda alguna, las tiendas han comenzado el año apostándolo todo con las diferentes ofertas y campañas que han ido lanzando en estas dos primeras semanas de enero. Llega un nuevo fin de semana, por… [+4931 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Daringfireball.net"
+            },
+            "author": "John Gruber",
+            "title": "★ Al Gore, Mac Nerd and Internet Pioneer",
+            "description": "In 2003 there was one person in the world who could be described as a former vice president of the United States and avid Mac user.",
+            "url": "https://daringfireball.net/2024/01/al_gore_mac_nerd_internet_pioneer",
+            "urlToImage": "https://daringfireball.net/graphics/df-wide-card.png",
+            "publishedAt": "2024-01-13T03:43:08Z",
+            "content": "Apple press release, on 19 March 2003 (about seven months after I started writing Daring Fireball1):\n\n\n Apple today announced that Albert Gore Jr., the former Vice \nPresident of the United States, ha… [+5512 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Apple Newsroom"
+            },
+            "author": null,
+            "title": "Apple hiring compiler developers for improving Swift / C++ interoperability",
+            "description": "Apply for a Compiler Frontend Engineer job at Apple. Read about the role and find out if it’s right for you.",
+            "url": "https://jobs.apple.com/en-us/details/200531386/compiler-frontend-engineer",
+            "urlToImage": "https://jobs.apple.com/static/images/og/en-us/corporate.jpg",
+            "publishedAt": "2024-01-13T08:59:40Z",
+            "content": "Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion,… [+1208 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Eclecticlight.co"
+            },
+            "author": null,
+            "title": "M1 Macs may lag behind",
+            "description": "M1 CPUs support ARMv8.5A, which doesn’t support the new bfloat16 floating-point format now widely used in AI. That’s likely to put them at a disadvantage.",
+            "url": "https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/",
+            "urlToImage": "https://eclecticlightdotcom.files.wordpress.com/2015/01/cropped-eclecticlightlogo-e1421784280911.png?w=200",
+            "publishedAt": "2024-01-13T08:11:10Z",
+            "content": "Like it or loathe it, AI seems here to stay, and in the form of machine learning (ML) has already been changing our Macs. Use Spotlight, Siri, word completion, or any image processing tools, and you’… [+3733 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Sophia Zimmermann",
+            "title": "Apple AirDrop: Apple wusste bereits seit 2019 von Schwachstellen",
+            "description": "Das wirft Fragen auf: Forscher informierten Apple bereits vor Jahren über die Schwachstellen in AirDrop. Das Unternehmen hat darauf offenbar nicht reagiert.",
+            "url": "https://www.heise.de/news/Apple-AirDrop-Apple-wusste-bereits-seit-2019-von-Schwachstellen-9596478.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/2/5/6/4/2/airdrop-88b0ff1747c9ceb4.jpg",
+            "publishedAt": "2024-01-13T10:24:00Z",
+            "content": "Wiederholt hat Apple offenbar nicht auf Warnungen vor Schwachstellen in seinem Sharing-Dienst AirDrop reagiert. Das berichtet CNN und beruft sich dabei auf ein Forscher-Team der Technischen Universit… [+1913 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Bradley Chambers",
+            "title": "Apple @ Work: Power Monitoring Tool for macOS helps IT admins understand how much power their Mac fleet consumes",
+            "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect App…",
+            "url": "https://9to5mac.com/2024/01/13/power-monitoring-tool-for-macos/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/12/power-monitor.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-01-13T10:00:00Z",
+            "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary … [+3305 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Genbeta.com"
+            },
+            "author": "Eva Rodriguez de Luis",
+            "title": "El plan de Google para cumplir con la ley de Mercados Digitales de la UE: podrás elegir qué servicios de tu cuenta están vinculados",
+            "description": "Como las otras big tech, Google se está preparando para cumplir con la regulación de mayor alcance jamás vista en la Unión Europea y los mercados digitales que en ella operan: la Ley de Mercados Digitales, o abreviadamente, DMA, que entrará en vigor este mism…",
+            "url": "https://www.genbeta.com/actualidad/podras-elegir-que-servicios-tu-cuenta-estan-vinculados-este-plan-google-para-cumplir-ley-mercados-digitales",
+            "urlToImage": "https://i.blogs.es/10298c/google/840_560.jpeg",
+            "publishedAt": "2024-01-13T08:31:37Z",
+            "content": "Como las otras big tech, Google se está preparando para cumplir con la regulación de mayor alcance jamás vista en la Unión Europea y los mercados digitales que en ella operan: la Ley de Mercados Digi… [+3905 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Jess Pingrey)",
+            "title": "Daily deals Jan. 12: $50 off Magic Keyboard & Case for iPad Pro, 31% off iPad Pro, $60 off AirPods Pro 2, more",
+            "description": "Today's top deals include $150 off a Shark Cordless Pro Stick vacuum cleaner, 10% off an Apple Pencil, 30% off an Amazon Fire TV Stick 4K, 68% off Bang & Olufsen Beoplay Portal wireless headphones, 43% off Samsung Galaxy Buds 2 Pro, and more.Get $50 off a Mag…",
+            "url": "https://appleinsider.com/articles/24/01/13/daily-deals-jan-12-50-off-magic-keyboard-case-for-ipad-pro-31-off-ipad-pro-60-off-airpods-pro-2-more",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/58073-118318-daily-deals-jan-12-xl.jpg",
+            "publishedAt": "2024-01-13T00:37:01Z",
+            "content": "Get $50 off a Magic Keyboard &amp; Case for iPad Pro\r\nToday's top deals include $150 off a Shark Cordless Pro Stick vacuum cleaner, 10% off an Apple Pencil, 30% off an Amazon Fire TV Stick 4K, 68% of… [+3523 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "はらいさん",
+            "title": "Apple Vision Pro、高価なだけに付属品も充実してた",
+            "description": "2024年2月2日に米国での発売が決定したApple Vision Pro。価格は3,499ドル（約50万円）からとなりますが、これまで謎に包まれていた同梱物についても判明しました。",
+            "url": "https://www.gizmodo.jp/2024/01/apple-vision-pro-accessories.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/01/11/Apple-Vision-Pro-availability-back-angle.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2024-01-13T10:00:00Z",
+            "content": "2\r\n202422Apple Vision Pro3,49950\r\nAppleApple Vision ProApple Vision Pro\r\nImage: Apple\r\n2\r\nVision ProUSB-C\r\niPhone\r\n50AppleCare +Vision Pro\r\nApple Vision Pro195\r\nSource: MacRumors, Apple"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "小暮ひさのり",
+            "title": "Vision ProのRAMは16GB。ストレージ違いも選べる…かも",
+            "description": "まもなく発売されるApple（アップル）が「空間コンピュータ」と呼ぶMRヘッドセット「Apple Vision Pro」。発売日とともに一部仕様も公開されましたが、Xcode 15.2に含まれる、デバイス関連のファイルを参照すると、16GBのユニファイドメモリが搭載されていることが確認できたようです。",
+            "url": "https://www.gizmodo.jp/2024/01/vision-pro-ram-16gb.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/01/11/2024-01-11vikadk00.jpg?w=1280&h=630&f=jpg",
+            "publishedAt": "2024-01-13T04:00:00Z",
+            "content": "Apple Vision Pro will be available starting at $3,499 (U.S.) with 256GB of storage. \r\nApple Vision Pro 256GB3,499"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Miguel López",
+            "title": "Las nueve aplicaciones gratuitas para nuestro iPhone sin las que los editores de Applesfera no sabríamos vivir",
+            "description": "En Applesfera no paramos de recomendar aplicaciones, tanto gratuitas como de pago. Pero puede que a veces te preguntes: ¿qué aplicaciones son las que los editores de Applesfera utilizamos, más allá de las recomendaciones? Es algo que hemos revelado en el pasa…",
+            "url": "https://www.applesfera.com/aplicaciones-ios-1/nueve-aplicaciones-gratuitas-para-nuestro-iphone-que-editores-applesfera-no-sabriamos-vivir",
+            "urlToImage": "https://i.blogs.es/d5c58f/captura-de-pantalla-2024-01-12-a-las-19.58.01/840_560.jpeg",
+            "publishedAt": "2024-01-13T10:01:35Z",
+            "content": "En Applesfera no paramos de recomendar aplicaciones, tanto gratuitas como de pago. Pero puede que a veces te preguntes: ¿qué aplicaciones son las que los editores de Applesfera utilizamos, más allá d… [+6944 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Felix Frank",
+            "title": "Counterpoint: Premium-Smartphones mit Rekordumsätzen in 2023",
+            "description": "Das Marktforschungsinstitut Counterpoint nimmt das abgeschlossene Jahr zum Anlass, um auf Umsatzzahlen im Smartphone-Segment zurückzublicken und erste Prognosen abzugeben. Während für den globalen Smartphone-Markt ein Rückgang erwartet wird, soll der Umsatz i…",
+            "url": "https://stadt-bremerhaven.de/counterpoint-premium-smartphones-mit-rekordumsaetzen-in-2023/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2022/02/mobile-iPhone-smartphone-paul-hanaoka-HbyYFFokvm0-unsplash_.jpg",
+            "publishedAt": "2024-01-13T05:30:40Z",
+            "content": "Photo by Paul Hanaoka on Unsplash\r\nDas Marktforschungsinstitut Counterpoint nimmt das abgeschlossene Jahr zum Anlass, um auf Umsatzzahlen im Smartphone-Segment zurückzublicken und erste Prognosen abz… [+1611 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Ulrich Rozier",
+            "title": "Enfin une alternative à Apple AirPlay et Google Chromecast : voici Matter Casting",
+            "description": "Amazon secoue un marché où l'on avait un duopole : celui du streaming avec l'intégration de Matter Casting.",
+            "url": "https://www.frandroid.com/marques/amazon/1911569_enfin-une-alternative-a-apple-airplay-et-google-chromecast-voici-matter-casting",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/01/fire-tv2.jpg",
+            "publishedAt": "2024-01-13T08:23:20Z",
+            "content": "Amazon secoue un marché où l'on avait un duopole : celui du streaming avec l'intégration de Matter Casting.\r\nPanasonic a adopté Fire TV OS au CES 2024 // Source : Amazon\r\nCe n’est ni plus ni moins la… [+1594 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Wwwhatsnew.com"
+            },
+            "author": "Nelson Herrera",
+            "title": "Cómo conectar mi iPhone a un satélite de emergencia SOS",
+            "description": "En algún momento de nuestras vidas, todos hemos enfrentado el miedo de quedarnos varados con nuestro automóvil en una vía solitaria y peligrosa, una preocupación tanto para nosotros como para la integridad de las personas que nos acompañan. Es por ello que Ap…",
+            "url": "https://wwwhatsnew.com/2024/01/13/como-conectar-mi-iphone-a-un-satelite-de-emergencia-sos/",
+            "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2024/01/tec-593.jpg",
+            "publishedAt": "2024-01-13T11:00:47Z",
+            "content": "En algún momento de nuestras vidas, todos hemos enfrentado el miedo de quedarnos varados con nuestro automóvil en una vía solitaria y peligrosa, una preocupación tanto para nosotros como para la inte… [+3047 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Srad.jp"
+            },
+            "author": "headless",
+            "title": "斜め回転のディスプレイ、何かに活用できそう？",
+            "description": "Windows や Mac ではディスプレイを 90 度単位で回転させることが可能だが、Linux では自由な角度で斜めに回転させることが可能だという\n(The Verge の記事、\nTom's Hardware の記事)。\n\nただし、ディスプレイの斜め回転は X.Org の xrandr を使用するもので、Wayland ではサポートされていない。元ネタになった xssfox のブログ記事ではアスペクト比 32:9 のディスプレイを 22 度回転させると対角線が水平となり、1 行の長さが最も長くなるとして、ソフ…",
+            "url": "https://hardware.srad.jp/story/24/01/13/0622252/",
+            "urlToImage": "https://srad.jp/static/topics/displays_64.png",
+            "publishedAt": "2024-01-13T06:49:00Z",
+            "content": "Windows Mac 90 Linux \r\n(The Verge Tom's Hardware )X.Org xrandr Wayland xssfox 32:9 22 1"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Ifanr.com"
+            },
+            "author": "莫崇宇",
+            "title": "腾讯多款游戏断开，官方致歉/特斯拉中国多款车型降价/苹果 Vision Pro 头显细节曝光",
+            "description": "·特斯拉中国多款车型降价\n·库克 2023 年总薪酬降至 6320 万美元\n·蔚来换电「朋友圈」再扩容#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+            "url": "https://www.ifanr.com/1573276",
+            "urlToImage": "https://s3.ifanr.com/images/ep/cover-images/ji_liu_pi_hua_ting_cover.jpg",
+            "publishedAt": "2024-01-13T01:00:57Z",
+            "content": "2024 \r\n2024 1 26 3 5 40 15 2024 1 12 \r\n2024 2 10 17 8 1 25 2 8 1 26 2 9 2 3 2 17 \r\n 12306 6 3 60 9 20 \r\n Vision Pro app \r\nMacrumors Aaron Perris Apple Store Vision Pro \r\n Apple Vision Pro Head Measur… [+1035 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "01net.com"
+            },
+            "author": "Mickaël Bazoge",
+            "title": "Google prépare le big bang européen de ses services associés",
+            "description": "Le mois de mars va arriver vite, et les entreprises désignées comme contrôleurs d'accès par la Commission européenne vont devoir rapidement accorder leurs violons avec les règles de la législation sur les marchés numériques (DMA). Google a dévoilé quelques ch…",
+            "url": "https://www.01net.com/actualites/google-prepare-le-big-bang-europeen-de-ses-services-associes.html",
+            "urlToImage": "https://www.01net.com/app/uploads/2024/01/Google-1.jpg",
+            "publishedAt": "2024-01-13T08:30:14Z",
+            "content": "Le mois de mars va arriver vite, et les entreprises désignées comme contrôleurs d’accès par la Commission européenne vont devoir rapidement accorder leurs violons avec les règles de la législation su… [+1869 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "01net.com"
+            },
+            "author": "Gabriel Manceau",
+            "title": "Les 7 meilleures applications de fonds d’écran pour Android",
+            "description": "Voici notre sélection des meilleures applications de fond d'écran pour personnaliser votre smartphone Android gratuitement.",
+            "url": "https://www.01net.com/actualites/les-meilleures-applications-de-fonds-decran-pour-android.html",
+            "urlToImage": "https://www.01net.com/app/uploads/2024/01/meilleures-applications-fonds-ecran-android.jpg",
+            "publishedAt": "2024-01-13T07:09:05Z",
+            "content": "Voici notre sélection des meilleures applications de fond d’écran pour personnaliser votre smartphone Android gratuitement.Sur internet, les fonds d’écran sont légion, ce qui peut vite créer le senti… [+5737 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "PCWorld"
+            },
+            "author": "DealPost Team",
+            "title": "Enjoy a better Apple TV experience with 10% off this button remote",
+            "description": "Apple TV and Apple TV 4K are great. There’s just one thing that’s really not so great about them. That Siri remote that never seems to want to work properly. If you’re tired of the trackpad and limited button capabilities, it’s time to upgrade to the Function…",
+            "url": "https://www.pcworld.com/article/2200927/enjoy-a-better-apple-tv-experience-with-10-off-this-button-remote.html",
+            "urlToImage": "https://www.pcworld.com/wp-content/uploads/2024/01/PCWorld-Function101.jpeg?quality=50&strip=all&w=1024",
+            "publishedAt": "2024-01-13T08:00:00Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nApple TV and Apple T… [+816 chars]"
+        },
+    {
+    "source": {
+                "id": "liberation",
+                "name": "Libération"
+            },
+            "author": "LIBERATION, AFP",
+            "title": "Microsoft détrône Apple et devient la première capitalisation boursière mondiale",
+            "description": "Pour la première fois depuis septembre 2021, le géant du logiciel a dépassé cette semaine la marque à la pomme, en raison notamment du développement par Microsoft de l’intelligence artificielle et la vente en berne des iPhones 15.",
+            "url": "https://www.liberation.fr/economie/economie-numerique/microsoft-detrone-apple-et-devient-la-premiere-capitalisation-boursiere-mondiale-20240113_7Z2DBUQI7NDN3BQLJHCN72F44Y/",
+            "urlToImage": "https://www.liberation.fr/resizer/VMkTVzFLSioMQZ-yJSznru3XAtw=/1200x630/filters:format(jpg):quality(70):focal(2833x1624:2843x1634)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/IUOE6TDRB5GMLD3FPHMXEEP7UQ.jpg",
+            "publishedAt": "2024-01-13T08:28:04Z",
+            "content": "Microsoft avait déjà détrôné quelques secondes son concurrent Apple comme première capitalisation boursière mondiale jeudi. Cela sera finalement le cas au moins tout ce week-end. Vendredi soir, le gé… [+3147 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Touch Arcade"
+            },
+            "author": "Jared Nelson",
+            "title": "An Apple Vision Pro on Every Face – The TouchArcade Show #578",
+            "description": "In this week’s TouchArcade Show podcast we spend darn near the entire episode talking about the Apple Vision Pro since … Continue reading \"An Apple Vision Pro on Every Face – The TouchArcade Show #578\"",
+            "url": "https://toucharcade.com/2024/01/12/an-apple-vision-pro-on-every-face-the-toucharcade-show-578/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-13T01:12:19Z",
+            "content": "In this week’s TouchArcade Show podcast we spend darn near the entire episode talking about the Apple Vision Pro since Apple unveiled the device’s February 2nd release date this past Monday. Will we … [+1329 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Creative Bloq"
+            },
+            "author": "Tanya Combrinck, Ian Dean",
+            "title": "Artists' New Year's resolutions for 2024",
+            "description": "Meet seven pro artists who are planning to tackle what the coming year brings in these challenging times of generative AI.",
+            "url": "https://www.creativebloq.com/features/artists-new-years-resolutions-2024",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/5FRKpsnrQQXyf2Fd6hB9fj-1200-80.jpg",
+            "publishedAt": "2024-01-13T08:00:39Z",
+            "content": "It has been a tough year in the art world in 2023. Strikes brought things to a standstill in the entertainment industry, change in the social media landscape has continued to diminish artists’ online… [+12438 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Fran Besora",
+            "title": "Apple Watch Series X: un concepto se imagina cómo podría ser y es espectacular",
+            "description": "Uno de los nuevos dispositivos que Apple presentará este año es el Apple Watch Series 10. Un modelo que conmemorará un momento muy especial: el décimo aniversario de su presentación. Por ese motivo, se espera que este nuevo Apple Watch sea una auténtica revol…",
+            "url": "https://www.lavanguardia.com/andro4all/apple/apple-watch-series-x-un-concepto-se-imagina-como-podria-ser-y-es-espectacular",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2024/01/concepto-apple-watch-series-x.jpeg?width=1200",
+            "publishedAt": "2024-01-13T09:01:16Z",
+            "content": "Concepto del Apple Watch Series X\r\nUno de los nuevos dispositivos que Apple presentará este año es el Apple Watch Series 10. Un modelo que conmemorará un momento muy especial: el décimo aniversario d… [+3409 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Googlewatchblog.de"
+            },
+            "author": "Jens",
+            "title": "Google Assistant + Bard: Eine fast perfekte Mischung – die KI-Produkte rücken enger zusammen (Kommentar)",
+            "description": "Google Assistant und Bard werden miteinander verschmolzen und gleich die Schwächen des jeweils anderen Produkts aus. Das dürfte in puncto KI-Assistenten eine fast perfekte Mischung werden.Google Assistant + Bard: Eine fast perfekte Mischung – die KI-Produkte …",
+            "url": "https://www.googlewatchblog.de/?p=218160",
+            "urlToImage": "https://www.googlewatchblog.de/wp-content/uploads/google-assistant-with-bard-logo.jpg",
+            "publishedAt": "2024-01-13T10:30:01Z",
+            "content": "Sprachassistenten wie der Google Assistant hatten es in letzter Zeit nicht leicht, denn sie stehen plötzlich im Schatten der sehr viel „klügeren“ KI-ChatBots, können aber kaum mit diesen konkurrieren… [+4586 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Jade Bryan",
+            "title": "Apple Vision Pro: Kopf- und Gesichts-Scan über den App Store?",
+            "description": "Apple wird wohl den App Store nutzen, um die Größe des Kopfbügels und des Light Seals für die Nutzer der Apple Vision Pro durch einen Scan zu bestimmen.",
+            "url": "https://www.nextpit.de/apple-vision-pro-kopf-und-gesichts-scan-via-app-store",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Apple_WWDC_23/Screenshot_2023-06-05_at_20.52.37.png",
+            "publishedAt": "2024-01-13T07:00:00Z",
+            "content": "In-App-Messung des \"Apple Vision Pro\"-Kopfbandes und dem Light Seal\r\nLaut dem MacRumors-Redakteur Aaron Perris entdeckten String-Code, würde die Apple-Store-Anwendung das Scannen von Gesichtern unter… [+2546 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Matthias \"MaTT\" Zellmer",
+            "title": "Rogbid Smart Ring im ersten Test: der perfekte Fitness-Tracker?",
+            "description": "Mit dem Rogbid Smart Ring präsentiert uns der chinesische Hersteller einen preiswerten Ring mit vielen intelligenten Funktionen. Hier unser erster Test!",
+            "url": "https://www.nextpit.de/rogbid-smart-ring-test",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/Rogbid_Smart_Ring/nextpit_Rogbid_Smart_Ring_Test.jpg",
+            "publishedAt": "2024-01-13T11:00:01Z",
+            "content": "Intelligente Ringe sind im Trend und erledigen den Job eines herkömmlichen Fitness-Trackers aber ohne den Nutzer mit Notifications zu überfrachten. Der Rogbid Smart Ring ist dabei ein besonders preis… [+11201 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Merca20.com"
+            },
+            "author": "Kahory Gil Bravo",
+            "title": "Apple Music impresiona con un adelanto explosivo para el Super Bowl 2024",
+            "description": "Apple Music refleja la importancia de la experiencia del usuario y la asociación con artistas influyentes para mantenerse relevante en un mercado altamente competitivo de servicios.",
+            "url": "https://www.merca20.com/apple-music-impresiona-con-un-adelanto-explosivo-para-el-super-bowl-2024/",
+            "urlToImage": "https://files.merca20.com/uploads/2023/07/Captura-de-Pantalla-2023-07-14-a-las-9.40.35.png",
+            "publishedAt": "2024-01-13T00:30:47Z",
+            "content": "<ul><li>Spotify lidera la industria con más de 345 millones de usuarios activos mensuales y más de 170 millones de suscriptores premium, consolidándose como la plataforma más popular.\r\n</li><li> Appl… [+4501 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Kühe erfrieren im Überflutungsgebiet – Peta erstattet Anzeige",
+            "description": "Erst das Hochwasser, dann die Extremkälte – das Extremwetter ist einer Gruppe Kühe in Brandenburg an der Havel zum Verhängnis geworden. Die Tiere verendeten auf einer überfluteten Weide, sie froren im Eis fest. Tierschützer fordern ein Halteverbot für den Eig…",
+            "url": "https://www.welt.de/vermischtes/weltgeschehen/article249510014/Erschreckende-Bilder-Kuehe-erfrieren-im-Ueberflutungsgebiet-Peta-erstattet-Anzeige.html",
+            "urlToImage": "https://img.welt.de/img/bildergalerien/mobile249509978/9281351047-ci16x9-w1200/Erfrorene-Kuehe-im-Wasser-in-Brandenburg-Havel-entdeckt.jpg",
+            "publishedAt": "2024-01-13T09:34:02Z",
+            "content": "Mehrere Kühe sind in Brandenburg an der Havel erfroren. Feuerwehr und Veterinäramt rückten am Donnerstag bei klirrender Kälte zu einer Suchaktion auch mithilfe einer Drohne aus. Die Tierschutzorganis… [+1198 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "ycr",
+            "title": "LINE NEXT推出正式版DOSI：買賣NFT外，擴展為全方位數位商務平台、Android已開放下載",
+            "description": "LINE NEXT致力於發展並拓展Web3生態系統，11日宣布推出DOSI正式版本：除買賣NFT外，LINE NEXT目標擴展為全方位數位商務平台。Android已開放下載，iOS版本也將於近期開放。LINE NEXT 致力於發展並拓展 Web3 生態系統，11日宣布開放 DOSI 正式版本作為數位商務 (D-Commerce) 平台，將於 180 個國家上線。DOSI 也透過手機應用程式擴展易用性，目前Android應用程式已開放下載，而iOS版本將於近期開放。\nDOSI 的測試 (Beta) 版本於 2022…",
+            "url": "https://www.techbang.com/posts/112437-line-next-has-launched-the-official-version-of-dosi-in",
+            "urlToImage": "https://cdn2.techbang.com/system/excerpt_images/112437/original/aa097268d932b3a188d2276b3dabc9ad.jpg?1704950891",
+            "publishedAt": "2024-01-13T04:30:00Z",
+            "content": "LINE NEXT  Web3 11 DOSI (D-Commerce) 180 DOSI AndroidiOS\r\nDOSI (Beta) 2022 9 Beta LINE NEXT DOSINFT\r\n DOSI 2 NFT LINE NFT CryptoNinja Partners 20 \r\n<ul><li>SuperPlat</li><li>Quantrack</li><li>inDJAI … [+154 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "cnBeta",
+            "title": "蘋果論文透露可將大型語言模型裝進快閃記憶體，日後iPhone可直接流暢跑AI模型",
+            "description": "在2024年，這條「大型語言模型+硬體」路線或許會直接改變競爭格局。蘋果對於AI的態度，外人看來似乎過於保守。像是今年5月，外媒報導蘋果擔心ChatGPT、Copilot等AI工具收集機密資料，禁止員工在工作中使用。今年6月，在蘋果全球開發者大會上，庫克甚至都沒提AI，而是只說「機器學習」。\n但如果說蘋果不在意AI，顯然不可能。畢竟追溯到2010年，蘋果就以2億美元的價格收購了Siri團隊（雖然這麼多年過去了，它還是那麼「弱智」）。\n<ul>\n<li>延伸閱讀：蘋果正在利用大型語言模型改造Siri：不需網路連線，…",
+            "url": "https://www.techbang.com/posts/112207-apples-paper-revealed-that-large-language-models-can-be",
+            "urlToImage": "https://cdn0.techbang.com/system/excerpt_images/112207/original/4de96c5c9c4811c5ad6789a3085a8b42.jpg?1704266582",
+            "publishedAt": "2024-01-13T01:30:00Z",
+            "content": "AI5ChatGPTCopilotAI6AI\r\nAI20102Siri\r\n7AIAjaxAppleGPTAjaxGoogle JaxAppleGPTChatGPT\r\n10Ferret70130\r\n10John GiannandreaCraig FederighiEddy Cue10\r\n2020John GiannandreaAIAI\r\n2023\r\niPhone\r\nLLM in a flash:E… [+310 chars]"
+        },
+    {
+    "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "From Avatar to Dune: The most anticipated new shows and movies of 2024, and where to watch them",
+            "description": "Hot on the heels of one of the best years for movie and TV releases in recent memory, 2024 is shaping up to be an impressive year for screens both big and small. To help you wade through, CBC News has compiled 24 new movies and shows to watch in 2024 — and wh…",
+            "url": "https://www.cbc.ca/news/entertainment/what-to-watch-2024-1.7082418",
+            "urlToImage": "https://i.cbc.ca/1.7082552.1705115621!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/what-to-watch-2024.jpg",
+            "publishedAt": "2024-01-13T09:00:00Z",
+            "content": "Hot on the heels of one of the best years for movie and TV releases in recent memory, 2024 is shaping up to be an impressive year for screens both big and small.\r\nBecause even though there may have b… [+11263 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Inside.com.tw"
+            },
+            "author": "INSIDE 硬塞的網路趨勢觀察",
+            "title": "蝦皮成交手續費再調漲！2/1 起促銷檔期費用變 7.5%",
+            "description": "未參與長期或短期免運補貼及 / 或蝦幣回饋活動的賣家，在促銷檔期期間成交手續費將調整為 7.5%，在非蝦皮促銷檔期期間則是 5.5%。",
+            "url": "https://www.inside.com.tw/article/33911-shopee-handling-fee-7.5%",
+            "urlToImage": "https://bucket-img.tnlmedia.com/cabinet/2024/01/c150d3fb-a512-4fc7-ab1b-8f101b119e81.jpg?w=1200&h=630&fit=crop&auto=compress",
+            "publishedAt": "2024-01-13T03:37:00Z",
+            "content": "2020 Google Chrome Cookie Google 2024 1% Chrome Cookie6 Chrome 3000 \r\n Apple Safari Firefox cookie Cookieless cookie \r\nGoogle Cookie Photo credit:Google\r\nCookie AI \r\n Cookieless Cookie Google 2024 AP… [+481 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Le HuffPost"
+            },
+            "author": "Émilie Rappeneau",
+            "title": "Avec le froid, les batteries de nos téléphones ou vélos électriques perdent en autonomie et voici pourquoi",
+            "description": "Face aux températures négatives, protéger son smartphone ou son ordinateur devient nécessaire.",
+            "url": "https://www.huffingtonpost.fr/science/video/avec-le-froid-les-batteries-de-nos-telephones-ou-velos-electriques-perdent-en-autonomie-et-voici-pourquoi_228241.html",
+            "urlToImage": "https://huffpost-focus.sirius.press/2024/01/12/0/0/1920/1080/1820/1023/75/0/4b49e74_1705077904818-home-minia-10.jpg",
+            "publishedAt": "2024-01-13T07:30:16Z",
+            "content": "Vous ne pouvez pas visionner ce contenu car :<ul><li>Vous avez refusé les cookies associés aux contenus issus de tiers en vous abonnant. Vous ne pourrez donc pas lire nos vidéos qui ont besoin de coo… [+3060 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Ascii.jp"
+            },
+            "author": "ASCII",
+            "title": "米国で特許侵害クロ判定で一時は米国で販売停止のApple Watch、修正は認められるか？",
+            "description": "023年末に米国でApple Watch2機種が販売停止となった。アップルはその後、上訴手続きをとり、措置は一時的に解除されている。これまでの流れをまとめたい。",
+            "url": "https://weekly.ascii.jp/elem/000/004/179/4179288/",
+            "urlToImage": "https://ascii.jp/img/2024/01/13/3668931/l/b0732813c89deb3c.jpg",
+            "publishedAt": "2024-01-13T00:00:00Z",
+            "content": "2023Apple Watch2\r\nApple Watch\r\nHTCOPPONokia15iPhone\r\nApple Watch\r\nApple WatchMasimo2021\r\n202310ITCMasimoApple Watch Series 9Apple Watch Ultra 22ITC601226ITC2\r\n2Apple Store2Apple Watch\r\n……\r\nITC\r\n21227… [+114 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Techbeamers.com"
+            },
+            "author": "Meenakshi Agarwal",
+            "title": "TechBeamers Python: Top 50 Python Data Structure Exercises (List, Set, Dictionary, and Tuple)",
+            "description": "Find out 50 Python data structure exercises including coding challenges on Lists, Sets, Dictionaries, Tuples, and some advanced concepts.",
+            "url": "https://www.techbeamers.com/python-data-structure-exercises-beginners/",
+            "urlToImage": "https://www.techbeamers.com/wp-content/uploads/2024/01/Top-50-Python-Data-Structure-Exercises-List-Set-Dictionary-and-Tuple.png",
+            "publishedAt": "2024-01-13T08:24:39Z",
+            "content": "Here are 50 Python Data Structure exercises covering List, Set, Dictionary, and Tuple operations. These are excellent exercises for any beginner learning Python.\r\nIn the following exercises, youll en… [+18966 chars]"
+        },
+    {
+    "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "marc.mclaren@futurenet.com (Marc McLaren)",
+            "title": "ICYMI: the week's 5 biggest tech stories, from CES to Apple Vision Pro",
+            "description": "CES has dominated the week's headlines, but it's not been the only big story in tech. Here's our weekly digest.",
+            "url": "https://www.techradar.com/tech/icymi-the-weeks-5-biggest-tech-stories-from-ces-to-apple-vision-pro",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MSBswGxt3csYVa8YpfqibK-1200-80.jpg",
+            "publishedAt": "2024-01-13T08:30:11Z",
+            "content": "CES 2024 bestrode the tech world this week like some kind of mega-robot, arms made of smart showers and smart telescopes, body of a transparent OLED TV, neural headphones for ears and (of course) an … [+5640 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Numerama"
+            },
+            "author": "Nicolas Lellouche",
+            "title": "Comment fonctionne la modélisation d’une ville en 3D ?",
+            "description": "À Las Vegas, la startup française Exwayz a proposé à Numerama de monter dans une voiture équipée de deux capteurs LiDAR, afin de nous montrer comment elle modélisait un environnement en 3D. Exwayz commercialise un logiciel pour les entreprises qui veulent fab…",
+            "url": "https://www.numerama.com/vroom/1606232-comment-fonctionne-la-modelisation-dune-ville-en-3d.html",
+            "urlToImage": "https://www.numerama.com/wp-content/uploads/2024/01/modelisation-3d.jpg",
+            "publishedAt": "2024-01-13T08:40:00Z",
+            "content": "À Las Vegas, la startup française Exwayz a proposé à Numerama de monter dans une voiture équipée de deux capteurs LiDAR, afin de nous montrer comment elle modélisait un environnement en 3D. Exwayz co… [+4659 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Zak Doffman, Contributor, \n Zak Doffman, Contributor\n https://www.forbes.com/sites/zakdoffman/",
+            "title": "Apple iMessage Soundly Beaten As Powerful New Update Suddenly Leaks",
+            "description": "Forget iPhone 15—Apple’s serious iPhone 16 problem just got worse…",
+            "url": "https://www.forbes.com/sites/zakdoffman/2024/01/13/apple-iphone-and-google-android-users-surprise-new-whatsapp-update/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65744e9437fe0bbac67751bf/0x0.jpg?format=jpg&crop=2142,1291,x385,y385,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-01-13T10:15:00Z",
+            "content": "In many ways, Apple is the great, global advocate of privacy and security it claims to be. But there are exceptions, one of which will become a huge issue for the iPhone maker in 2024. Now, a leaked … [+5054 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/davidphelan/",
+            "title": "iOS 17.3 Release Date: Apple Hurriedly Re-Releases Important iPhone Update",
+            "description": "It’s back, and this time it won’t brick your iPhone, let’s hope. The last developer beta for iPhone 17.3 was pulled after a matter of hours. Now, Apple has moved on to a new beta.",
+            "url": "https://www.forbes.com/sites/davidphelan/2024/01/13/ios-173-release-date-apple-hurriedly-releases-important-iphone-update-again-security-update/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/659eef4be6ba61d7c2140c36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-01-13T08:34:59Z",
+            "content": "January 13 update below. This post was first published on January 10, 2024.\r\nApples next iPhone software release will be iOS 17.3, unless theres some pesky bug that necessitates a surprise inbetweene… [+5099 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Charlie Fink, Contributor, \n Charlie Fink, Contributor\n https://www.forbes.com/sites/charliefink/",
+            "title": "Rokid AR Raises $70 Million, Image Gen LumaAI Grabs $43 Million As Big Tech Lays Off Thousands",
+            "description": "CES wasn't the only big news this week.",
+            "url": "https://www.forbes.com/sites/charliefink/2024/01/12/rokid-ar-raises-70-million-image-gen-lumaai-grabs-43-as-big-tech-lays-off-thousands/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/61d7a25f8993dd6b6e6399a9/0x0.jpg?format=jpg&crop=1711,962,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-01-13T01:08:28Z",
+            "content": "LAS VEGAS, NEVADA - JANUARY 09: Walmart Inc. President and CEO Doug McMillon (L) and Microsoft ... [+] Chairman and CEO Satya Nadella speak during McMillon's keynote address during CES 2024 at The Ve… [+4512 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Zak Doffman, Contributor, \n Zak Doffman, Contributor\n https://www.forbes.com/sites/zakdoffman/",
+            "title": "Why You Need To Delete These ‘Very Dangerous’ Apps",
+            "description": "Serious new warning issued for all Google Android Users—check your phone today…",
+            "url": "https://www.forbes.com/sites/zakdoffman/2024/01/13/urgent-new-warning-suddenly-issued-for-millions-of-google-android-users/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/973347862/0x0.jpg?format=jpg&crop=4835,3121,x1409,y1299,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-01-13T10:00:00Z",
+            "content": "A serious new warning this week has been targeted at smartphone users who have been tricked into installing malicious apps on their devices. But unlike other recent warnings, these apps are much hard… [+6195 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Antyweb.pl"
+            },
+            "author": "Daniel Wójcik",
+            "title": "Dlaczego prezes Apple w tym roku zarobi kilkadziesiąt milionów dolarów mniej? Już wiadomo",
+            "description": "Tegoroczna wypłata Tima Cooka jest uszczuplona o kilkadziesiąt milionów dolarów. Dlaczego?\n \n The post Dlaczego prezes Apple w tym roku zarobi kilkadziesiąt milionów dolarów mniej? Już wiadomo appeared first on AntyWeb.",
+            "url": "https://antyweb.pl/tim-cook-wynagrodzenie-2023-2",
+            "urlToImage": "https://antyweb.pl/img/1250/550/fit/wp-content/uploads/2020/11/10194534/tim-cook2.jpg",
+            "publishedAt": "2024-01-13T06:30:05Z",
+            "content": "O tym e Tim Cook jest najlepszym ksigowym o jakim Apple mogo sobie zamarzy wiedz wszyscy. Mona kwestionowa jego ruchy i wspóczesn polityk firmy, ale fakty s takie, e gigant z Cupertino nigdy nie dzia… [+1254 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Iphoneitalia.com"
+            },
+            "author": "Giuseppe Migliorino",
+            "title": "Apple continua a studiare il design del tasto Azione su iPhone 16 Pro",
+            "description": "Come sarà il tasto Azione sugli iPhone 16 Pro? \nLink all'articolo originale: Apple continua a studiare il design del tasto Azione su iPhone 16 Pro",
+            "url": "https://www.iphoneitalia.com/820344/quale-design-tasto-azione-iphone-16-pro",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2024/01/iphone-16-pro-tasto-azione.webp",
+            "publishedAt": "2024-01-13T08:53:03Z",
+            "content": "Gli ultimi prototipi di iPhone 16 Pro indicano che Apple ha nuovamente modificato il design del pulsante Azione, che ora assomiglia molto allo stesso pulsante presente su iPhone 15 Pro.\r\nIn questi me… [+2676 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Iphoneitalia.com"
+            },
+            "author": "Francesco Siciliani",
+            "title": "Orologio Topolino su iPhone: come avere il widget di Mickey Mouse?",
+            "description": "Scopriamo come avere l'orologio di Topolino su iPhone tramite il widget Mickey Mouse e l'applicazione Widgy.\nLink all'articolo originale: Orologio Topolino su iPhone: come avere il widget di Mickey Mouse?",
+            "url": "https://www.iphoneitalia.com/820297/orologio-topolino-iphone-widget-mickey-mouse",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2024/01/Orologio-topolino-su-iPhone.jpeg",
+            "publishedAt": "2024-01-13T09:00:07Z",
+            "content": "Siete appassionati di Disney e Topolino e cercate un orologio su iPhone simile alla watchface ufficiale per Apple Watch? Ecco come fare ad avere un widget con Mickey Mouse in pochi istanti direttamen… [+1187 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Tecmundo.com.br"
+            },
+            "author": "Carlos Palmeira",
+            "title": "10 notícias mais importantes da semana (08/01 a 12/01)",
+            "description": "Bom dia! Para se manter atualizado neste início de sabadão (13), o TecMundo separou tudo o que rolou de mais importante nesta semana (08 a 12 de janeiro). Além de várias notícias sobre tecnologia e ciência, o mundo do entretenimento e dos games também foram b…",
+            "url": "https://www.tecmundo.com.br/internet/276894-10-noticias-importantes-semana-08-01-12-01.htm",
+            "urlToImage": "https://tm.ibxk.com.br/2024/01/12/12173303443360.jpg",
+            "publishedAt": "2024-01-13T09:00:00Z",
+            "content": "Bom dia! Para se manter atualizado neste início de sabadão (13), o TecMundo separou tudo o que rolou de mais importante nesta semana (08 a 12 de janeiro). Além de várias notícias sobre tecnologia e c… [+2404 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "Alessandro Di Lorenzo",
+            "title": "Netflix lidera lista de indicações das melhores animações de 2023",
+            "description": "Os filmes e séries da Netflix tiveram 28 indicações para o tradicional Annie Awards, que premia as melhores animações do ano\nO post Netflix lidera lista de indicações das melhores animações de 2023 apareceu primeiro em Olhar Digital.",
+            "url": "https://olhardigital.com.br/2024/01/12/cinema-e-streaming/netflix-lidera-lista-de-indicacoes-das-melhores-animacoes-de-2023/",
+            "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2023/12/Destaque-Netflix-695x500.jpg",
+            "publishedAt": "2024-01-13T00:54:00Z",
+            "content": "O tradicionalÂ Annie AwardsÂ divulgou a lista de indicados para a ediÃ§Ã£o de 2024 do evento. Entre os destaques estÃ£o produÃ§Ãµes de sucesso, comoÂ Nimona, daÂ Netflix,Â Elementos, daÂ Disney/Pixar… [+3566 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "Ana Bondance",
+            "title": "5 aplicativos para pagar IPVA 2024 parcelado",
+            "description": "Estes 5 aplicativos oferecem serviços de parcelamento do IPVA 2024 em até 12 vezes no cartão de crédito e outras formas de pagamento\nO post 5 aplicativos para pagar IPVA 2024 parcelado apareceu primeiro em Olhar Digital.",
+            "url": "https://olhardigital.com.br/2024/01/12/carros-e-tecnologia/5-aplicativos-para-pagar-ipva-2024-parcelado/",
+            "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2024/01/IPVA-2024-via-Sven-D-Unsplash-695x500.jpg",
+            "publishedAt": "2024-01-13T01:20:00Z",
+            "content": "O calendÃ¡rio do IPVA 2024 estÃ¡ aberto e muitos dos estados brasileiros jÃ¡ divulgaram suas datas. O pagamento do Imposto sobre a Propriedade de VeÃ­culos Automotores possui duas variÃ¡veis principa… [+3562 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Elotrolado.net"
+            },
+            "author": "Benzo",
+            "title": "Las noticias de la semana (#2 2024)",
+            "description": "<table><tr><td></td></tr></table>La celebración del CES 2024 en Las Vegas nos ha dejado un sinfín de presentaciones de productos tecnológicos, incluyendo pantallas OLED y MicroLED transparentes, pantallas OLED que se doblan 360 grados, monitores de hasta 57 p…",
+            "url": "https://www.elotrolado.net/noticias/juegos/semana-2-2024",
+            "urlToImage": "https://images.elotrolado.net/headers/upload/1/9/19fee4_ces_news.jpg?1200",
+            "publishedAt": "2024-01-13T10:34:23Z",
+            "content": "La celebración del CES 2024 en Las Vegas nos ha dejado un sinfín de presentaciones de productos tecnológicos, incluyendo pantallas OLED y MicroLED transparentes, pantallas OLED que se doblan 360 grad… [+8103 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Frenchweb.fr"
+            },
+            "author": "LA REDACTION DE FRENCHWEB.FR",
+            "title": "La commissaire de l’UE, Margrethe Vestager avertit la tech sur la nouvelle réglementation des marchés numériques",
+            "description": "La commissaire de l’Union européenne à la concurrence a affirmé vendredi avoir averti les géants américains de la tech qu’ils devraient se conformer strictement à la nouvelle législation de l’UE sur les marchés numériques qui entrera en vigueur dans deux mois…",
+            "url": "https://www.frenchweb.fr/une-commissaire-de-lue-avertit-la-tech-sur-la-nouvelle-reglementation-des-marches-numeriques/446680",
+            "urlToImage": "https://www.frenchweb.fr/wp-content/uploads/2023/09/Margrethe-Vestager-magenta.png",
+            "publishedAt": "2024-01-13T09:57:21Z",
+            "content": "La commissaire de l’Union européenne à la concurrence a affirmé vendredi avoir averti les géants américains de la tech qu’ils devraient se conformer strictement à la nouvelle législation de l’UE sur … [+2474 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Browneyedbaker.com"
+            },
+            "author": "Michelle",
+            "title": "The Weekend Dish: 1/13/2024",
+            "description": "The Weekend Dish: 1/13/2024\nHello and happy Saturday to you! I hope that your year is off to a wonderful start and that you haven’t been too negatively impacted by harsh weather yet. The last couple of winters have seemed quite mild here, so I wouldn’t mind a…",
+            "url": "https://www.browneyedbaker.com/the-weekend-dish-1-13-2024/",
+            "urlToImage": "https://www.browneyedbaker.com/wp-content/uploads/2016/11/weekend-dish-thumbnail.png",
+            "publishedAt": "2024-01-13T05:01:00Z",
+            "content": "Hello and happy Saturday to you! \r\nI hope that your year is off to a wonderful start and that you haven’t been too negatively impacted by harsh weather yet. The last couple of winters have seemed qui… [+1941 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "ComingSoon.net"
+            },
+            "author": "Vivekkumar",
+            "title": "The Shrink Next Door Season 1 Streaming: Watch & Stream Online Via Apple TV Plus",
+            "description": "The Shrink Next Door Season 1 is dubbed as a psychological black comedy-drama series, based on the 2019 Wondery and Bloomberg Media podcast of the same name. This miniseries takes inspiration from the real-life events that were narrated in the podcast as it t…",
+            "url": "https://www.comingsoon.net/guides/news/1485031-the-shrink-next-door-season-1-streaming-watch-stream-online-via-apple-tv-plus",
+            "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/MixCollage-13-Jan-2024-10-50-AM-9884.jpg?resize=1200,630",
+            "publishedAt": "2024-01-13T05:21:38Z",
+            "content": "The Shrink Next DoorSeason 1 is dubbed as a psychological black comedy-drama series, based on the 2019 Wondery and Bloomberg Media podcast of the same name. This miniseries takes inspiration from the… [+3000 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "ComingSoon.net"
+            },
+            "author": "Tamal Kundu",
+            "title": "Will There Be a The Shrink Next Door Season 2 Release Date & Is It Coming Out?",
+            "description": "Developed by Georgia Pritchett from the podcast of the same name by Joe Nocera, The Shrink Next Door is a drama series streaming on Apple TV Plus. The plot encompasses several decades and revolves around Marty Markowitz, as he deals with the increasing influe…",
+            "url": "https://www.comingsoon.net/guides/news/1484885-will-there-be-a-the-shrink-next-door-season-2-release-date-is-it-coming-out",
+            "urlToImage": "https://www.comingsoon.net/wp-content/uploads/sites/3/2024/01/MixCollage-13-Jan-2024-07-53-AM-1809.jpg?resize=1200,630",
+            "publishedAt": "2024-01-13T02:24:33Z",
+            "content": "Developed by Georgia Pritchett from the podcast of the same name by Joe Nocera,The Shrink Next Door is a drama series streaming on Apple TV Plus. The plot encompasses several decades and revolves aro… [+2222 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Everything-everywhere.com"
+            },
+            "author": "Gary Arndt",
+            "title": "Human Life Expectancy",
+            "description": "Podcast Transcript Everyone, I have some good news and some bad news.  The bad news is that you, me, and everyone else listening to my voice right now are mortal.  As of the recording of this episode, time is undefeated.  The good news is that there has never…",
+            "url": "https://everything-everywhere.com/human-life-expectancy/",
+            "urlToImage": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-5FHBtKn/0/65f21f62/L/1285epart-L.jpg",
+            "publishedAt": "2024-01-13T09:48:19Z",
+            "content": "Subscribe Apple | Google | Spotify | Amazon | Player.FM | TuneInCastbox | Podurama | Podcast Republic | RSS | Patreon\r\nEveryone, I have some good news and some bad news. \r\nThe bad news is that you, m… [+11651 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "BetaNews"
+            },
+            "author": "Brian Fagioli",
+            "title": "Lexar and Silicon Motion unveil next-generation portable solid state drives -- ARMOR 700 and SL500",
+            "description": "Lexar has announced a huge collaboration with Silicon Motion. This partnership combines Lexar’s expertise in storage products with an advanced controller chip from Silicon Motion. The controller features a USB 3.2 Gen 2 interface and four NAND channels, cater…",
+            "url": "https://betanews.com/2024/01/12/lexar-silicon-motion-ssd-armor-700-and-sl500/",
+            "urlToImage": "https://betanews.com/wp-content/uploads/2024/01/IMG_5016-50x50.jpeg",
+            "publishedAt": "2024-01-13T01:16:44Z",
+            "content": "Lexar has announced a huge collaboration with Silicon Motion. This partnership combines Lexars expertise in storage products with an advanced controller chip from Silicon Motion. The controller featu… [+1701 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Elespanol.com"
+            },
+            "author": "Sara Borondo",
+            "title": "Èric 'Elendow' Verdalet, el programador que desarrolla juegos por trabajo y por afición",
+            "description": "<!--cache-->El programador Èric Verdalet se ha hecho conocido por el juego nacido como un divertimento The Button, pero ha trabajado en varios juegos más.Los videojuegos han sido parte de la vida de Éric Elendow Verdalet desde antes de que tuviera recuerdos, …",
+            "url": "https://vandal.elespanol.com/noticia/1350768344/ric-elendow-verdalet-el-programador-que-desarrolla-juegos-por-trabajo-y-por-aficion/",
+            "urlToImage": "https://media.vandal.net/ivandal/12/63/1200x630/1/1-2024/202411310402432_1.jpg",
+            "publishedAt": "2024-01-13T09:40:00Z",
+            "content": "Los videojuegos han sido parte de la vida de Éric Elendow Verdalet desde antes de que tuviera recuerdos, \"en casa tenemos la broma de que nací con una Game Boy bajo el brazo\", dice al principio de un… [+21768 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "高品質フルグレインレザーを採用したNOMAD製のiPad Air/Pro専用フォリオケース｢NOMAD Leather Folio｣と｢NOMAD Leather Folio Plus｣が登場",
+            "description": "NOMAD Leather Folio Plusのブラウンモデル アシカンが、iPad専用フォリオケース「NOMAD Leather Folio」とApple Pencilフラップを搭載した「NOMAD Leather Folio Plus",
+            "url": "https://taisy0.com/2024/01/13/193970.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2024/01/NOMADLeatherFolioPlus.jpg",
+            "publishedAt": "2024-01-13T03:32:26Z",
+            "content": "NOMAD Leather Folio Plus\r\niPadNOMAD Leather FolioApple PencilNOMAD Leather Folio Plus\r\nNOMAD Leather FolioNOMAD Leather Folio PlusiPad ecco \r\n/&amp;\r\nLeather Folio PlusApple Pencil \r\niPad Pro 11iPad … [+603 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "｢iPhone 16 Pro｣、ボタン類での大きな変更はキャプチャボタンの搭載のみになりそう",
+            "description": "MacRumorsが、最新の「iPhone 16 Pro」の試作機に関する情報を報告しています。 Appleは「iPhone 16 Pro」の試作機で様々なサイズとデザインのアクションボタンをテストしてきましたが、同サイトが最近見た「iPh",
+            "url": "https://taisy0.com/2024/01/13/193965.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2024/01/iphone16promockup202401.jpg",
+            "publishedAt": "2024-01-13T02:59:22Z",
+            "content": "MacRumorsiPhone 16 Pro\r\nAppleiPhone 16 ProiPhone 16 ProAppleiPhone 15 Pro\r\n42\r\n<ol><li>iPhone 15 Pro</li><li></li><li></li><li>iPhone 15 Pro</li></ol>"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Yuri Di Prodo",
+            "title": "ESR presenta i caricatori Qi2 con MagSafe al CES 2024",
+            "description": "C'è una stazione di ricarica 3-in-1 per casa e ufficio e una versione alternativa da viaggio, oltre ad un modello specifico per l'automobile: caratteristiche, dettagli e differenze\n- su macitynet.it ESR presenta i caricatori Qi2 con MagSafe al CES 2024",
+            "url": "https://www.macitynet.it/esr-presenta-i-caricatori-qi2-con-magsafe-al-ces-2024/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2024/01/ESR-presenta-i-caricatori-Qi2-con-MagSafe-al-CES-2024-1.jpg",
+            "publishedAt": "2024-01-13T09:59:44Z",
+            "content": "Gli appassionati Apple avranno presto a disposizione una nuovissima serie di accessori MagSafe: ci riferiamo alla collezione Qi2 che ESR sta mostrando in questi giorni alla fiera di Las Vegas, compos… [+3953 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Mauro Notarianni",
+            "title": "Come cancellare un singolo sito dalla cronologia Safari senza cancellarla tutta",
+            "description": "Per vari motivi può essere utile eliminare un sito web specifico dalla cronologia si Safari. Ecco come fare da Mac, iPad e iPhone.\n- su macitynet.it Come cancellare un singolo sito dalla cronologia Safari senza cancellarla tutta",
+            "url": "https://www.macitynet.it/come-cancellare-un-singolo-sito-dalla-cronologia-safari-senza-cancellarla-tutta/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2024/01/cronologia2.jpg",
+            "publishedAt": "2024-01-13T10:29:10Z",
+            "content": "Mentre si naviga nel Web, nei browser vengono memorizzate molte informazioni come ad esempio i siti visitati o i file scaricati e molto altro ancora. Tutte queste informazioni prendono il nome di “cr… [+2075 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Yuri Di Prodo",
+            "title": "Come attivare la trappola anti ladro di iPhone con iOS 17",
+            "description": "Una seconda strategia per dissuadere il furto del proprio iPhone: ecco come preparare la trappola, come e quando usarla\n- su macitynet.it Come attivare la trappola anti ladro di iPhone con iOS 17",
+            "url": "https://www.macitynet.it/come-attivare-la-trappola-anti-ladro-di-iphone-con-ios-17/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2024/01/Come-attivare-la-trappola-antifurto-di-iPhone-con-iOS-17-tutorial-2.jpg",
+            "publishedAt": "2024-01-13T08:29:42Z",
+            "content": "Qualche giorno fa vi abbiamo spiegato come creare e attivare l’antifurto per iPhone attraverso una automazione che sostanzialmente impedisce a un potenziale ladro di attivare la modalità aereo condiv… [+4012 chars]"
+        },
+    {
+    "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Greg Walters, Josh Visser",
+            "title": "Trump Sure Looks Like He’s About to Get Smoked in Court",
+            "description": "Trump battled a fraud lawsuit in New York that could determine his future as a businessman with a torrent of insults and taunts… and no coherent legal strategy.",
+            "url": "https://www.vice.com/en/article/z3mkpj/trump-sure-looks-like-hes-about-to-get-smoked-in-court",
+            "urlToImage": "https://video-images.vice.com/articles/65a1da91c645e209ad7af52a/lede/1705106228691-trump-court-judge.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDM3NXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq",
+            "publishedAt": "2024-01-13T10:00:00Z",
+            "content": "Former President Donald Trump wrapped up his massive civil fraud case with a trademark personal touch: An attack on the judge, right in the courtroom.\r\nYou have your own agenda, Trump told Judge Arth… [+4239 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "PhoneArena"
+            },
+            "author": "Alan Friedman",
+            "title": "Apple finally officially acknowledges a change made to a major app with iOS 16",
+            "description": "Apple makes a change to a support document to reflect an upgrade to the Find My app that it made in iOS 16.",
+            "url": "https://www.phonearena.com/news/apple-finally-announces-find-my-app-upgrade-from-ios-16_id154311",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/154311-wide-two_1200/Apple-finally-acknowledges-a-change-made-to-a-major-app-with-iOS-16.jpg",
+            "publishedAt": "2024-01-13T03:56:46Z",
+            "content": "Enjoy the hottest mobile tech storylines, delivered straight to your inbox."
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Blogdumoderateur.com"
+            },
+            "author": "Matthieu Eugène",
+            "title": "Quand l’IA s’invite au cinéma : 10 films à découvrir",
+            "description": "Entre les grands classiques de la science-fiction et la multiplication récente des films sur l'IA, découvrez notre sélection d'œuvres abordant l'intelligence artificielle.",
+            "url": "https://www.blogdumoderateur.com/cinema-10-films-ia/",
+            "urlToImage": "https://f.hellowork.com/blogdumoderateur/2024/01/films-ia-intelligence-artificielle-1200x628.jpg",
+            "publishedAt": "2024-01-13T08:00:49Z",
+            "content": "L’intelligence artificielle est au cur de l’actualité depuis fin 2022 avec l’arrivée tonitruante de ChatGPT, suivi de nombreuses IA génératives grand public. Cependant, au cinéma, le sujet des intell… [+12987 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Stephen Battaglio",
+            "title": "NFL is in advanced talks on taking a stake in Disney's ESPN",
+            "description": "ESPN would take over the NFL's media operations in return for an equity stake in the channel, which faces a challenging future due to consumers cutting the pay TV cord.",
+            "url": "https://www.latimes.com/entertainment-arts/business/story/2024-01-12/nfl-advanced-talks-stake-disney-espn-iger",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/9046e2b/2147483647/strip/true/crop/1873x983+0+39/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F86%2F82%2Ffe34040a4f85a232b6d4458921a2%2Foverwatch-league-espn-18882.jpg",
+            "publishedAt": "2024-01-13T02:34:59Z",
+            "content": "Talk about a wild card weekend.\r\nIn what would be a stunning move, the NFL and the Walt Disney Co. are contemplating a pair-up that would give the league a stake in the sports media company, said a s… [+2722 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Macotakara.jp"
+            },
+            "author": "danbo",
+            "title": "Macの整備済商品 Mac Pro (2023)初登場、MacBook Pro (13-inch, M2, 2022) 値下げ（2024/1/13）",
+            "description": "<!-- テキスト -->\n\nApple.com/jpが、Apple認定の整備済製品で、Mac整備済み製品として、商品の追加を行っています。\n\n30,000円以上購入でオリコApple ショッピングローンが24回払いまで金利０%で利用出来ます。\n\nペイディあと払いプランApple専用は利用できません。\n\n整備品情報はメールマガジンでもお知らせしています。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\n<ul>\n<li>Mac…",
+            "url": "https://www.macotakara.jp/sale/entry-45973.html",
+            "urlToImage": "https://www.macotakara.jp/archives/001/201611/a9e34492173d4301d9ba7b0febd64b0a802d02d7f39e66ffe51d2a9e523b651b.jpg",
+            "publishedAt": "2024-01-13T07:44:23Z",
+            "content": "Apple.com/jpAppleMac\r\n30,000Apple 24%\r\nApple\r\n<ul><li>Mac Pro (2023)/M2 Ultra/24Core CPU/76CoreGPU/192GB/8TB SSD1,461,800</li><li>Mac Pro (2023)/M2 Ultra/24Core CPU/76CoreGPU/128GB/8TB SSD1,366,800</… [+4080 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "ZDNet France"
+            },
+            "author": "Allison Murray",
+            "title": "CES Day 4 : Les 10 meilleures histoires entendues au CES 2024",
+            "description": "Le CES c'est fini. Voici donc les dernières annonces qui nous ont marqué lors de cette semaine folle, entre drones, téléviseurs, et autres bestioles connectées.",
+            "url": "https://www.zdnet.fr/actualites/ces-day-4-les-10-meilleures-histoires-entendues-au-ces-2024-39963542.htm",
+            "urlToImage": "https://www.zdnet.com/a/img/2024/01/09/7da03a82-66b2-4e61-a694-cb3e117490f3/ces-2024-hashtag-sign.jpg",
+            "publishedAt": "2024-01-13T09:00:00Z",
+            "content": "Cette semaine, plus de 4 000 exposants ont côtoyé des centaines de milliers de visiteurs. Et il se peut, tout comme eux, que vous ayez manqué certaines annonces marquantes. Heureusement, ZDNET s'est … [+4975 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Unwire.hk"
+            },
+            "author": "唐美鳳",
+            "title": "美國國際貿易委員會反對暫緩禁令 兩款 Apple Watch 美國或需再度停售",
+            "description": "由於被指侵犯醫療科技公司 Masimo 的血氧監測技術專利，美國國際貿易委員會於去年 10 月頒令 Apple 不可將 Apple Watch Series 9 和 Apple Watch Ultra 2 進口到美國，並要求在當地停止銷售。相關禁令在去年 12 月 26 日實施，但 Apple 很快就向法院提交動議。\nThe post 美國國際貿易委員會反對暫緩禁令 兩款 Apple Watch 美國或需再度停售 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+            "url": "https://unwire.hk/2024/01/13/itc-opposes-apple-watch-sales-ban-pause/life-tech/watch-wireless-home/",
+            "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2024/01/03-11-694x390.png",
+            "publishedAt": "2024-01-13T05:00:20Z",
+            "content": "Masimo 10 Apple Apple Watch Series 9 Apple Watch Ultra 2 12 26 Apple \r\nApple Apple Watch Apple Apple Apple Apple Watch \r\n Apple 1 15 Apple Watch Apple Apple Masimo Apple \r\nmacrumors\r\n:<li> Apple Watc… [+74 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Macmagazine.com.br"
+            },
+            "author": "Luiz Gustavo Ribeiro",
+            "title": "Apple TV+ acumula mais quatro indicações aos PGA Awards 2024",
+            "description": "As indicações não param de chegar para o Apple TV+! Depois de quatro nomeações aos ASC Awards 2024, como informamos mais cedo, agora o serviço de streaming da Maçã acumulou outras quatro, desta vez para os Producers Guild Awards (PGA) Awards — além das duas j…",
+            "url": "https://macmagazine.com.br/post/2024/01/12/apple-tv-acumula-mais-quatro-indicacoes-aos-pga-awards-2024/",
+            "urlToImage": "https://macmagazine.com.br/wp-content/uploads/2024/01/Ted_Lasso_Photo_031204-1260x840.jpg",
+            "publishedAt": "2024-01-13T00:40:54Z",
+            "content": "As indicações não param de chegar para o Apple TV+! Depois de quatro nomeações aos ASC Awards 2024, como informamos mais cedo, agora o serviço de streaming da Maçã acumulou outras quatro, desta vez p… [+2685 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Tweakers.net"
+            },
+            "author": "Jay Stout",
+            "title": "Chinese politie heeft tool om AirDrop-gebruikers te identificeren",
+            "description": "De Chinese politie beschikt over een tool waarmee men telefoonnummers en e-mailadressen van Apple AirDrop-gebruikers kan achterhalen. Op die manier zouden mensen die Airdrop gebruiken om anoniem met elkaar communiceren, alsnog te identificeren zijn.",
+            "url": "https://tweakers.net/nieuws/217566/chinese-politie-heeft-tool-om-airdrop-gebruikers-te-identificeren.html",
+            "urlToImage": "https://tweakers.net/i/9ZunxeHrQjNYFtGNdNS1yg_fSGc=/134x134/filters:strip_exif()/i/2004636488.png?f=meta",
+            "publishedAt": "2024-01-13T09:57:29Z",
+            "content": "De Chinese politie beschikt over een tool waarmee men telefoonnummers en e-mailadressen van Apple AirDrop-gebruikers kan achterhalen. Op die manier zouden mensen die Airdrop gebruiken om anoniem met … [+1343 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "MacGeneration"
+            },
+            "author": "Florian Innocente",
+            "title": "Promo Fnac : 10 € tous les 100 € sur des produits Apple",
+            "description": "En pleine période de soldes, la Fnac relance son opération consistant à créditer de 10 € le compte d'un adhérent pour chaque tranche de 100 € dépensés. Ce qui peut faire une petite cagnotte lorsqu'on fait ses emplettes sur certains produits Apple de plusieurs…",
+            "url": "https://www.macg.co/materiel/2024/01/promo-fnac-10-eu-tous-les-100-eu-sur-des-produits-apple-141603",
+            "urlToImage": "https://cdn.mgig.fr/2024/01/mga-5189b425-w375-w1500-w750_accroche.jpg",
+            "publishedAt": "2024-01-13T07:42:00Z",
+            "content": "En pleine période de soldes, la Fnac relance son opération consistant à créditer de 10  le compte d'un adhérent pour chaque tranche de 100  dépensés. Ce qui peut faire une petite cagnotte lorsqu'on f… [+825 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Gori.me"
+            },
+            "author": "g.O.R.i",
+            "title": "新旧モデルが大量復活。Mac整備済商品の最新情報（2024年1月13日更新）",
+            "description": "通常価格よりも15％オフで購入できる、Apple公式サイトのMac整備済製品が更新されている。記事執筆時点の掲載商品一覧およびその価格（税込）を紹介する。 【解説】Mac/iPadが通常価格の15％オフ！Apple認定の整備済商品は新品同様の中古でお買い得 本日はMacBookの各モデルが大量復活。…\nThe post 新旧モデルが大量復活。Mac整備済商品の最新情報（2024年1月13日更新） first appeared on ゴリミー. 【もっと読む】",
+            "url": "https://gori.me/sale/apple-refurbished/151524",
+            "urlToImage": "https://gori.me/uploads/2024/01/Mac-Refurbished-model-2024-01-13-800x344.jpg",
+            "publishedAt": "2024-01-13T08:37:09Z",
+            "content": "15AppleMac\r\nMacBookM1 MacBook Air106,80013M2 MacBook Air139,80015M2 MacBook Air168,80014M2 Pro MacBook Pro244,80016M2 Pro MacBook Pro295,800\r\n<ul><li>13.3 MacBook Air  8CPU7GPUApple M1 – 106,800</li>… [+6703 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Expansion.com"
+            },
+            "author": "Expansión.com",
+            "title": "Las empresas del Ibex dedican entre un 5 y un 15% de su presupuesto a branding",
+            "description": "Así lo explican los ceo de Comuniza, agencia de branding y consultora especializada en marca e innovación, Olga Llopis y Javier Velilla, quienes han participado en 800 proyectos de",
+            "url": "https://www.expansion.com/empresas/2024/01/13/65a26ef2468aeb8d718b467f.html",
+            "urlToImage": "https://phantom-expansion.unidadeditorial.es/9c867a60b05db3c56acd58732f21b9af/crop/0x0/2037x1358/resize/1200/f/webp/assets/multimedia/imagenes/2024/01/13/17051445341061.jpg",
+            "publishedAt": "2024-01-13T11:16:51Z",
+            "content": "Las empresas del Ibex dedican entre un 5 y un 15% de su presupuesto a branding, marketing y comunicación con la finalidad de garantizar una \"marca fuerte\" adaptada a las nuevas exigencias de los cons… [+2655 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Livedoor.jp"
+            },
+            "author": "itsoku",
+            "title": "【悲報】日本人、ガチでVRに興味ないことがデータで判明してしまう",
+            "description": "1:名無しさん必死だな  2024/01/11(木) 16:10:59.97 ID:2cJXcXIs0  VRは依然として米国中心ですか?    Omdia からこれらのデータを取得すると、ブラック フライデー月間に販売された 132,000 の Quest 2 のうち、100,000 が米国からのもので、日本と一部の主要なヨーロッパ",
+            "url": "http://blog.livedoor.jp/itsoku/archives/61156424.html",
+            "urlToImage": "https://livedoor.blogimg.jp/itsoku/imgs/7/a/7aa05be6-s.jpg",
+            "publishedAt": "2024-01-13T00:10:45Z",
+            "content": "1: 2024/01/11() 16:10:59.97 ID:2cJXcXIs0\r\n VR? \r\nOmdia 132,000 Quest 2 100,000 32,000 \r\n2: 2024/01/11() 16:11:57.54 ID:NTI1577E0\r\n3: 2024/01/11() 16:12:25.01 ID:+9kXrJGT0\r\n 3 \r\n4: 2024/01/11() 16:13:… [+2406 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Zive.cz"
+            },
+            "author": "Jan Pánek",
+            "title": "Povánoční výprodeje, konzole do ruky, slevy, ale i novinky. Nabídky zařízení u operátorů v lednu",
+            "description": "Operátoři přichystali povánoční výprodejové akce •Ceny se snižují s očekávaným příchodem novinek\n•Kompletní přehled nabídky zařízení u českých operátorů",
+            "url": "https://mobilmania.zive.cz/clanky/povanocni-vyprodeje-konzole-do-ruky-slevy-ale-i-novinky-nabidky-zarizeni-u-operatoru-v-lednu/sc-3-a-1359261/default.aspx",
+            "urlToImage": "https://mobilmania.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=749258660",
+            "publishedAt": "2024-01-13T08:55:00Z",
+            "content": "T-Mobile\r\nV lednu eká na zákazníky T-Mobilu tarifní dotace na celé portfolio Xiaomi a chybt nebudou ani telefony za korunu. Extra dotace se vztahují na T Phone a T Tablet a nadále lze vyuít tarifní d… [+35728 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Iculture.nl"
+            },
+            "author": "Gonny van der Zwaag | iCulture.nl",
+            "title": "Weekend kijktips: Lift, True Detective, Boy Swallows Universe en meer",
+            "description": "We schrijven op iCulture regelmatig over streaming videodiensten en handige functies om meer uit deze diensten te halen. Maar wat ga je kijken op je Apple-apparaten? Daar besteden we in deze rubriek aandacht aan. Je kunt dit weekend kijken naar diverse nieuwe…",
+            "url": "https://www.iculture.nl/nieuws/weekend-kijktips-week-2-2024/",
+            "urlToImage": "https://www.iculture.nl/wp-json/social-image-generator/v1/image/1379568/?v=13795781705135762",
+            "publishedAt": "2024-01-13T07:49:19Z",
+            "content": "HBO Max biedt een breed scala aan hoogwaardige content, waaronder exclusieve HBO-series, films en documentaires zoals Game of Thrones en de nieuwste blockbusters. Het aanbod wordt continu bijgewerkt.… [+615 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Bringatrailer.com"
+            },
+            "author": "bringatrailer",
+            "title": "Coyote-Powered 1974 Ford Bronco",
+            "description": "This 1974 Ford Bronco was refurbished and modified in 2021 by Gateway Bronco of Hamel, Illinois, and it is powered by a 5.0L Coyote V8 mated to a 10-speed automatic transmission and a twin-stick dual-range transfer case. The truck is finished in Brittany Blue…",
+            "url": "https://bringatrailer.com/listing/1974-ford-bronco-220/",
+            "urlToImage": "https://bringatrailer.com/wp-content/uploads/2023/12/1974_ford_bronco_dsc00270-90368.jpg",
+            "publishedAt": "2024-01-13T00:00:17Z",
+            "content": "This 1974 Ford Bronco was refurbished and modified in 2021 by Gateway Bronco of Hamel, Illinois, and it is powered by a 5.0L Coyote V8 mated to a 10-speed automatic transmission and a twin-stick dual… [+2838 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Ipadizate.com"
+            },
+            "author": "Mauricio Martínez",
+            "title": "Cómo desbloquear tu Mac si has olvidado la contraseña",
+            "description": "¿Te has olvidado de la contraseña del Mac? Si tienes problemas en este momento te indicamos que hay varias maneras de solucionarlo. Nuestro Apple ID va a ser clave, claro, si activaste la recuperación de contraseña mediante Apple ID será más rápido. Bastará c…",
+            "url": "https://ipadizate.com/mac/desbloquear-mac-olvidado-contrasena",
+            "urlToImage": "https://ipadizate.com/hero/2024/01/siempre-hay-una-solucion-cuando-se-olvida-la-contrasena-del-mac.jpg?width=1200",
+            "publishedAt": "2024-01-13T09:00:35Z",
+            "content": "Siempre hay una solución cuando se olvida la contrasena del Mac\r\n¿Te has olvidado de la contraseña del Mac? Si tienes problemas en este momento te indicamos que hay varias maneras de solucionarlo. Nu… [+4739 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Ipadizate.com"
+            },
+            "author": "Willennys Martínez",
+            "title": "Apple duplica el número de objetos que puedes añadir a la app Buscar",
+            "description": "¿Perdiste tus llaves? ¿Tu cartera? ¿Tus AirPods? Con la nueva actualización de la app Buscar de Apple, ya no tendrás que preocuparte por perderlos nunca más. En un anuncio sorprendente, Apple ha revelado que ahora puedes rastrear hasta 32 dispositivos a travé…",
+            "url": "https://ipadizate.com/accesorios/apple-duplica-el-numero-de-objetos-que-puedes-anadir-a-la-app-buscar",
+            "urlToImage": "https://ipadizate.com/hero/2024/01/apple-duplica-el-numero-de-objetos-que-puedes-anadir-a-la-app-buscar.jpg?width=1200",
+            "publishedAt": "2024-01-13T07:04:43Z",
+            "content": "La app Buscar de Apple se expande: ahora puedes rastrear el doble de objetos\r\n¿Perdiste tus llaves? ¿Tu cartera? ¿Tus AirPods? Con la nueva actualización de la app Buscar de Apple, ya no tendrás que … [+2720 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Ilsoftware.it"
+            },
+            "author": "Michele Nasi",
+            "title": "Documenti e allegati non sicuri: come aprirli senza rischi con Dangerzone",
+            "description": "Presentiamo un'applicazione che gestisce documenti e allegati insicuri, o potenzialmente tali, da un ambiente protetto. Si tratta di Dangerzone, capace di convertire file in vari formati trasformandoli in PDF sicuri. L'applicazione è in grado di rimuovere eve…",
+            "url": "https://www.ilsoftware.it/focus/documenti-e-allegati-non-sicuri-come-aprirli-senza-rischi-con-dangerzone/",
+            "urlToImage": "https://cdn.ilsoftware.it/dvkEpq7berQPWtD24S9-azb8d2A=/2120x1413/filters:format(webp)/https://www.ilsoftware.it/app/uploads/2024/01/allegati-non-sicuri-aprire-con-dangerzone.jpg",
+            "publishedAt": "2024-01-13T09:15:31Z",
+            "content": "Il buon vecchio adagio “non aprite mai allegati e documenti provenienti da fonti non affidabili” è sempre attuale e aiuta a proteggersi da un ampio ventaglio di attacchi informatici. Ci sono situazio… [+6438 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Just Jared"
+            },
+            "author": "Just Jared",
+            "title": "Jason Sudeikis & Brendan Hunt Respond to Joy Behar's Claim That She Was Asked to Appear in 'Ted Lasso'",
+            "description": "Jason Sudeikis and Brendan Hunt are addressing Joy Behar‘s claim that she was offered a role in Ted Lasso. The Apple TV+ show ended its three-season run in 2023. Jason, 48, starred as the titular character and won two Emmys for Outstanding Lead Actor in a Com…",
+            "url": "https://www.justjared.com/2024/01/13/jason-sudeikis-brendan-hunt-respond-to-joy-behars-claim-that-she-was-asked-to-appear-in-ted-lasso/",
+            "urlToImage": "https://cdn01.justjared.com/wp-content/uploads/headlines/2024/01/jason-sudeikis-brendan-hunt-react-to-joy-behar-ted-lasso-claim1.jpg",
+            "publishedAt": "2024-01-13T07:27:30Z",
+            "content": "Jason Sudeikis and Brendan Hunt are addressing Joy Behar‘s claim that she was offered a role in Ted Lasso.\r\nThe Apple TV+ show ended its three-season run in 2023. Jason, 48, starred as the titular ch… [+880 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Natalie.mu"
+            },
+            "author": "音楽ナタリー",
+            "title": "Perfumeを乗せてグランジ遠山が愛車で聖地巡礼",
+            "description": "遠山大輔（グランジ）のYouTube公式チャンネル「とーやまチャンネル」が始動。その1本目の動画に、Perfumeの3人がゲストとして登場した。",
+            "url": "https://natalie.mu/music/news/556883",
+            "urlToImage": "https://ogre.natalie.mu/media/news/music/2023/1117/Perfume_art202311.jpg?impolicy=twitter_card_face_crop",
+            "publishedAt": "2024-01-13T02:15:00Z",
+            "content": "Mrs. GREEN APPLE VikingLIVE from NOAH no HAKOBUNE"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Begeek.fr"
+            },
+            "author": "Morgan Fromentin",
+            "title": "Pour les précommandes d’un Apple Vision Pro, il faudra un scan Face ID via iPhone ou iPad",
+            "description": "Pour ajouter des inserts optiques à votre casque spatial, il vous faudra nécessairement avoir votre prescription de lunettes à portée de main.",
+            "url": "https://www.begeek.fr/pour-les-precommandes-dun-apple-vision-pro-il-faudra-un-scan-face-id-via-iphone-ou-ipad-391718",
+            "urlToImage": "https://www.begeek.fr/wp-content/uploads/2023/06/Apple-Vision-Pro.jpg",
+            "publishedAt": "2024-01-13T11:00:34Z",
+            "content": "Pour ajouter des inserts optiques à votre casque spatial, il vous faudra nécessairement avoir votre prescription de lunettes à portée de main.\r\nTl;dr\r\n<ul><li>Apple invite les clients à pré-commander… [+2071 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": null,
+            "title": "「iPhone 11 64GB」が32,800円！ドスパラ秋葉原本店で期間限定セール",
+            "description": "ドスパラ秋葉原本店5Fにて、Apple製スマートフォン「iPhone 11 64GB」の中古品セールが実施予定。期間は1月13日（土）～15日（月）まで。",
+            "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/1560655.html",
+            "urlToImage": "https://akiba-pc.watch.impress.co.jp/img/ah/list/1560/655/a2.jpg",
+            "publishedAt": "2024-01-13T00:05:00Z",
+            "content": "11112\r\n3,580DISK WRITER198,000ASUS RT-AX86U PRO/J24,990 \r\n112 20:38"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": null,
+            "title": "「iPhone 13 mini」の中古品が65,000円、秋葉原で数量限定セール",
+            "description": "Appleの5.4インチスマートフォン「iPhone 13 mini 128GB（中古品）」が、アメモバ 秋葉原店にてセール販売中。店頭価格は65,000円で、台数は50台ほど。",
+            "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/1560623.html",
+            "urlToImage": "https://akiba-pc.watch.impress.co.jp/img/ah/list/1560/623/a1.jpg",
+            "publishedAt": "2024-01-13T01:05:00Z",
+            "content": "Apple5.4iPhone 13 mini 128GB65,00050 \r\n 2,340×1,080A15 Bionic128GB"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Impress.co.jp"
+            },
+            "author": null,
+            "title": "第1世代iPhone SEの中古品が2,980円から！",
+            "description": "Appleのスマートフォン第1世代「iPhone SE」の中古品が、じゃんぱら秋葉原5号店に再入荷しています。",
+            "url": "https://akiba-pc.watch.impress.co.jp/docs/news/news/1560609.html",
+            "urlToImage": "https://akiba-pc.watch.impress.co.jp/img/ah/list/1560/609/a1.jpg",
+            "publishedAt": "2024-01-13T02:05:00Z",
+            "content": "11112\r\n3,580DISK WRITER198,000ASUS RT-AX86U PRO/J24,990 \r\n112 20:38"
+        },
+    {
+    "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Where Apple Watch patent dispute stands after 4 years of court battles",
+            "description": "January marks four years of disputes between Apple and the health tech company Masimo. The two companies are at odds over blood oxygen measurement technology used in the Apple Watch. Axios tech policy reporter Maria Curi joins CBS News to sort through the leg…",
+            "url": "https://www.cbsnews.com/video/apple-watch-patent-dispute-4-years/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/13/1ba6e206-527d-4ce7-84b5-a190b05d8524/thumbnail/1200x630/853fc7f8ad1ef094a94f335f4d95952f/cbsn-fusion-apple-watch-patent-dispute-4-years-thumbnail.jpg?v=50926e3bde2e7c9caafa13eb3f9693b5",
+            "publishedAt": "2024-01-13T01:08:00Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+    {
+    "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "1/12: CBS News Weekender",
+            "description": "Catherine Herridge reports on the threat of Houthi retaliation following U.S.-led strikes in Yemen, freezing cold ahead of the Iowa caucuses, and the latest on the Apple Watch patent dispute.",
+            "url": "https://www.cbsnews.com/video/112-cbs-news-weekender/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/13/11547d14-0973-4857-82f8-ac201863bba6/thumbnail/1200x630/b425ea1c6e984b54681a612541e45e5a/0112-7pm-full-2597734-640x360.jpg?v=50926e3bde2e7c9caafa13eb3f9693b5",
+            "publishedAt": "2024-01-13T02:23:36Z",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Is It Too Late to Buy Apple Stock?",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cf0e5f39-ceb0-4c8d-a3b7-f1e456f933a2",
+            "urlToImage": null,
+            "publishedAt": "2024-01-13T10:10:00Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 244 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Iphon.fr"
+            },
+            "author": "iPhon.fr",
+            "title": "32 : le nouveau nombre à ne pas dépasser avec les appareils Apple",
+            "description": "Si vous en avez davantage, vous risquez de ne pas pouvoir les retrouver facilement en cas de perte ou de vol... Détails.",
+            "url": "https://www.iphon.fr/post/32-le-nouveau-nombre-a-ne-pas-depasser-avec-les-appareils-apple",
+            "urlToImage": "https://www.iphon.fr/app/uploads/2024/01/localiser.jpg",
+            "publishedAt": "2024-01-13T03:49:48Z",
+            "content": "Apple vient de mettre à jour les conditions d’utilisation de son réseau Localiser. Pour rappel, celui-ci permet de retrouver ses objets pommés perdus grâce au réseau Bluetooth éponyme. Et désormais, … [+3365 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Iphon.fr"
+            },
+            "author": "iPhon.fr",
+            "title": "Dur à croire : le nombre de Vision Pro disponibles est vraiment petit",
+            "description": "Le succès n'est pas peut-être pas autant au rendez-vous que l'on pourrait le penser. Mais il s'agit surtout de patienter...",
+            "url": "https://www.iphon.fr/post/dur-a-croire-le-nombre-de-vision-pro-disponibles-est-vraiment-petit",
+            "urlToImage": "https://www.iphon.fr/app/uploads/2024/01/vision-pro-casque-vr.jpg",
+            "publishedAt": "2024-01-13T04:47:52Z",
+            "content": "Seulement 60 000 à 80 000 unités du casque de réalité mixte Apple Vision Pro seraient disponibles au lancement de l’appareil, selon l’analyste Ming-Chi Kuo. Pour rappel, le produit sera disponible en… [+3127 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "ifun.de › Apple-News seit 2001"
+            },
+            "author": "Chris",
+            "title": "Satechi-Reiseladegerät: Viermal USB-C für vier Länder",
+            "description": "Mit seinem neuen 145 Watt Reiseladegerät greift Satechi das alte Duckhead-Konzept von Apple auf. Die in ihrem Aussehen entfernt an einen Entenkopf erinnernden Steckeraufsätze lassen sich einfach uns sicher wechseln, also perfekte Voraussetzungen für ein flexi…",
+            "url": "https://www.ifun.de/satechi-reiseladegeraet-viermal-usb-c-fuer-vier-laender-225741/",
+            "urlToImage": "https://images.ifun.de/wp-content/uploads/2024/01/satechi-reiseadapter-145-w-feature.jpg",
+            "publishedAt": "2024-01-13T08:52:45Z",
+            "content": "Mit seinem neuen 145 Watt Reiseladegerät greift Satechi das alte Duckhead-Konzept von Apple auf. Die in ihrem Aussehen entfernt an einen Entenkopf erinnernden Steckeraufsätze lassen sich einfach uns … [+1966 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Jennifer Zhan",
+            "title": "Usher to Serenade Us at the 2024 Super Bowl Halftime Show",
+            "description": "Usher will headline the Super Bowl LVIII halftime show in Las Vegas and drop a new album on February 11, 2024. The trailer teases a performance ‘30 years in the making.’ Here’s how and when to watch.",
+            "url": "http://www.vulture.com/article/how-to-watch-usher-2024-super-bowl-halftime-show.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/bfe/1dd/658037a2b88298c0d796c449a02b91d949-usher.1x.rsocial.w1200.jpg",
+            "publishedAt": "2024-01-13T01:10:00Z",
+            "content": "Jealous lovers, prepare yourselves: Usher is about to serenade an entire stadium of wives and girlfriends. The NFL, Apple Music, and Roc Nation announced back in September that Usher will perform as … [+2116 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Jen Chaney",
+            "title": "What Will and Should Win at the 2023 Emmys, Being Held in 2024",
+            "description": "Our predictions for the 2023 Emmy Awards — the ceremony for which is being held in 2024 — in such categories as Outstanding Drama Series, Outstanding Comedy Series, Outstanding Limited Series, acting categories and more.",
+            "url": "http://www.vulture.com/article/emmy-award-winners-predictions-2023.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/9b6/03b/4aa10faa27aa98cc818a9fe5261a098b83-Emmy-Awards-predictions.1x.rsocial.w1200.jpg",
+            "publishedAt": "2024-01-13T00:02:58Z",
+            "content": "The Emmy Awards are just plain weird this year.\r\nTechnically, whats weird is that this is the ceremony for 2023, which was last year. But since the categories are being awarded in 2024, that makes th… [+20811 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "HipHopDX"
+            },
+            "author": "Marisa Mendez",
+            "title": "Key Glock's Action-Packed Short Film 'Let's Go' Crowned 'Video Of The Year'",
+            "description": "Key Glock fans have dubbed the short film he created as the visual to his single 'Let's Go' as 'video of the year' ahead of its full premiere.",
+            "url": "https://hiphopdx.com/news/key-glock-lets-go-video-year",
+            "urlToImage": "https://static.hiphopdx.com/2024/01/key-glock-action-packed-short-film-lets-go-crowned-video-of-the-year-1200x675.jpg",
+            "publishedAt": "2024-01-13T05:30:20Z",
+            "content": "Key Glock fans are so excited about his forthcoming short film for Lets Go that theyve already crowned it video of the year from just the preview.\r\nThe Paper Route Empire artist shared a teaser for t… [+2631 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Googlediscovery.com"
+            },
+            "author": "Renê Fraga",
+            "title": "Oferta: TV LG 4K de 50 pol. com Google Assist. pelo menor preço histórico na Amazon",
+            "description": "Você está em busca de uma Smart TV da LG com recursos de inteligência artificial e ótimo custo benefício? Então temos uma oferta imperdível para você! A TV LG 4K, de 50 polegadas, equipada com Google Assistente e Alexa, está disponível na Amazon pelo menor pr…",
+            "url": "https://googlediscovery.com/2024/01/12/oferta-tv-lg-4k-de-50-pol-com-google-assist-pelo-menor-preco-historico-na-amazon/",
+            "urlToImage": "https://cdn.googlediscovery.com/wp-content/uploads/tv-lg-destaque.webp",
+            "publishedAt": "2024-01-13T02:19:42Z",
+            "content": "Você está em busca de uma Smart TV da LG com recursos de inteligência artificial e ótimo custo benefício? Então temos uma oferta imperdível para você! \r\nA TV LG 4K, de 50 polegadas, equipada com Goog… [+1846 chars]"
+        }
+    ]
+}
